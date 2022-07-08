@@ -25,4 +25,4 @@ E para hospedar o projeto o:
 
 # Deploy
 
-<a href="" target="_blank"> Ver o projeto em live </a>
+<a href="https://rebecca-gow-ragnarok.netlify.app/" target="_blank"> Ver o projeto em live </a>
