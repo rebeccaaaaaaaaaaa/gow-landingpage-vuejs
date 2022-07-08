@@ -20,7 +20,7 @@ E para hospedar o projeto o:
 
 # Preview
 
-<img src="./src/assets/preview.png">
+<img src="./src/assets/preview.png" />
 
 
 # Deploy
