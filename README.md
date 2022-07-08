@@ -1,29 +1,28 @@
-# landing
+# Landing page - GOD OF WAR - RAGNAROK
 
-This template should help get you started developing with Vue 3 in Vite.
+Esse projeto foi desenvolvimento para fins estudantils. Desde que começei a trabalhar com frameworks js meu primeiro contato profissional foi vom Vuejs, mas acabei deixando de lado e migrado para o Reactjs que é onde estou até hoje. Então resolvi tentar criar alguma coisa com vuejs tendo como base meu conhecimento em Reactjs(que foi mais util que eu pensei) e a documentação do framework. 
 
-## Recommended IDE Setup
+# Tema
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+GOD OF WAR é uma franquia de jogos que eu sou apaixonada e tenho estanpada na pele. E com o anuncio da data de lançamento do próximo jogo da saga(talvez o ultimo?) resolvi criar uma landing page com o tema do game. 
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+# Tecnologias
 
-## Project Setup
+Usei nessa brincadeira o :
 
-```sh
-npm install
-```
+- Vuejs
 
-### Compile and Hot-Reload for Development
+E para hospedar o projeto o:
 
-```sh
-npm run dev
-```
+- Netlify
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
+# Preview
+
+<img src="./src/assets/preview.png">
+
+
+# Deploy
+
+<a href="" target="_blank"> Ver o projeto em live </a>
